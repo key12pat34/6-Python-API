@@ -5,6 +5,6 @@ API key file:
 
 Code files:
 
-  -weatherpy: v2.8 - WeatherPy
+- weatherpy: v2.8 - WeatherPy
   
-  -vacationpy:
+- vacationpy:
