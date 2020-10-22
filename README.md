@@ -1,7 +1,7 @@
 # Python-API-Homework---HW6
 
-code files:
+#code files:
 
-  weatherpy:
+  -weatherpy:
   
-  vacationpy:
+  -vacationpy:
