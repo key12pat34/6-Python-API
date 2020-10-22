@@ -1,6 +1,6 @@
 # Python-API-Homework---HW6
 
-#code files:
+Code files:
 
   -weatherpy:
   
