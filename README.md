@@ -2,6 +2,6 @@
 
 Code files:
 
-  -weatherpy:
+  -weatherpy: v2.8 - WeatherPy
   
   -vacationpy:
