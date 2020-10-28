@@ -9,4 +9,4 @@ Code files:
   
 - vacationpy: v1.5 - VacationPy.ipynb
 
-Output Data -- out
+Output Data -- output data/weatherpy 
