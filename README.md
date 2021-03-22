@@ -120,3 +120,14 @@ As final considerations:
 ### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
+----------------------------------------------------------------------------------------------------------------
+
+## API key file:
+* api_keys
+
+## Code files:
+* weatherpy: v2.8 - WeatherPy
+* vacationpy: v1.5 - VacationPy.ipynb
+
+## Output Data:
+* output data/ weatherpy
